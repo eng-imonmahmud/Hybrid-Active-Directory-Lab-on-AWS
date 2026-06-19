@@ -1,5 +1,9 @@
 # Hybrid Active Directory Lab on AWS
 
+## 📺 Infrastructure Deployment & Verification Video
+Click the link below to watch the live step-by-step infrastructure provisioning and verification:
+👉 [Watch the Hybrid Active Directory Lab on AWS Projects on Google Drive](https://drive.google.com/file/d/1u3i_Vv4RtkEM4xc0osdtzzaSpt_9qjv-/view?usp=sharing)
+
 ## Project Overview
 
 This project demonstrates the deployment of a Microsoft Active Directory Domain Controller on AWS using Infrastructure as Code (Terraform) and integration with AWS Identity Services.
